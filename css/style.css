@@ -466,7 +466,7 @@ input::-webkit-search-results-decoration {
 }
 
 .about-us-image {
-  background-image: url(./img/about-us-image.jpg);
+  background-image: url(/img/about-us-image.jpg);
 }
 
 .about-us__right {
@@ -487,7 +487,7 @@ input::-webkit-search-results-decoration {
 }
 
 .block-top-img {
-  background: url(./img/about-usТop.png) no-repeat;
+  background: url(/img/about-usТop.png) no-repeat;
   margin-right: 50px;
   width: 220px;
   height: 180px;

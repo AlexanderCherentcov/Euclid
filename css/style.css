@@ -466,7 +466,7 @@ input::-webkit-search-results-decoration {
 }
 
 .about-us-image {
-  background-image: url(../img/about-us-image.jpg);
+  background-image: url(./img/about-us-image.jpg);
 }
 
 .about-us__right {
